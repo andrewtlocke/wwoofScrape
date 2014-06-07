@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<TITLE>Wwoof France Hosts</TITLE>
+
+<META name="description" content="Wwoof Hosts listed by region">
+
+<META name="keywords" content="Hosts">
+
+</HEAD>
+
+<BODY>
+
+
+
+
+
+<center>There are 0 hosts in this Department
+<center><a href="http://www.wwoof.fr/wwoofers/wmain.php">Back</a></center>
+
+
+
+</BODY>
+
+</HTML>
+
